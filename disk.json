@@ -1,0 +1,220 @@
+{
+ " Disk Info " :[ {
+ "Mount" :"/dev/mapper/luks-1b92f5d4-0e37-4f5e-8703-53e08e20b279", 
+ "Directory " : "/" , 
+"size" : "509315383296", 
+ "free" : "422476529664",
+ "avail": "419595288576"
+
+}, {
+ "Mount" :"devtmpfs", 
+ "Directory " : "/dev" , 
+"size" : "8085405696", 
+ "free" : "8085405696",
+ "avail": "8085405696"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/dev/shm" , 
+"size" : "8232112128", 
+ "free" : "8201318400",
+ "avail": "8201318400"
+
+}, {
+ "Mount" :"devpts", 
+ "Directory " : "/dev/pts" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"sysfs", 
+ "Directory " : "/sys" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"securityfs", 
+ "Directory " : "/sys/kernel/security" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"cgroup2", 
+ "Directory " : "/sys/fs/cgroup" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"none", 
+ "Directory " : "/sys/fs/pstore" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"efivarfs", 
+ "Directory " : "/sys/firmware/efi/efivars" , 
+"size" : "382876", 
+ "free" : "122204",
+ "avail": "117084"
+
+}, {
+ "Mount" :"bpf", 
+ "Directory " : "/sys/fs/bpf" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"configfs", 
+ "Directory " : "/sys/kernel/config" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"proc", 
+ "Directory " : "/proc" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/run" , 
+"size" : "3292848128", 
+ "free" : "3290288128",
+ "avail": "3290288128"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/run/credentials/systemd-cryptsetup@luks\\x2d1b92f5d4\\x2d0e37\\x2d4f5e\\x2d8703\\x2d53e08e20b279.service" , 
+"size" : "1048576", 
+ "free" : "1048576",
+ "avail": "1048576"
+
+}, {
+ "Mount" :"selinuxfs", 
+ "Directory " : "/sys/fs/selinux" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"systemd-1", 
+ "Directory " : "/proc/sys/fs/binfmt_misc" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"debugfs", 
+ "Directory " : "/sys/kernel/debug" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"mqueue", 
+ "Directory " : "/dev/mqueue" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"hugetlbfs", 
+ "Directory " : "/dev/hugepages" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"tracefs", 
+ "Directory " : "/sys/kernel/tracing" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"fusectl", 
+ "Directory " : "/sys/fs/fuse/connections" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/run/credentials/systemd-journald.service" , 
+"size" : "1048576", 
+ "free" : "1048576",
+ "avail": "1048576"
+
+}, {
+ "Mount" :"/dev/mapper/luks-1b92f5d4-0e37-4f5e-8703-53e08e20b279", 
+ "Directory " : "/home" , 
+"size" : "509315383296", 
+ "free" : "422476529664",
+ "avail": "419595288576"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/tmp" , 
+"size" : "8232112128", 
+ "free" : "8218185728",
+ "avail": "8218185728"
+
+}, {
+ "Mount" :"/dev/nvme0n1p2", 
+ "Directory " : "/boot" , 
+"size" : "2040373248", 
+ "free" : "1190199296",
+ "avail": "1066049536"
+
+}, {
+ "Mount" :"/dev/nvme0n1p1", 
+ "Directory " : "/boot/efi" , 
+"size" : "627900416", 
+ "free" : "607649792",
+ "avail": "607649792"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/run/credentials/systemd-resolved.service" , 
+"size" : "1048576", 
+ "free" : "1048576",
+ "avail": "1048576"
+
+}, {
+ "Mount" :"sunrpc", 
+ "Directory " : "/var/lib/nfs/rpc_pipefs" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"tmpfs", 
+ "Directory " : "/run/user/1000" , 
+"size" : "1646419968", 
+ "free" : "1642541056",
+ "avail": "1642541056"
+
+}, {
+ "Mount" :"gvfsd-fuse", 
+ "Directory " : "/run/user/1000/gvfs" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+}, {
+ "Mount" :"binfmt_misc", 
+ "Directory " : "/proc/sys/fs/binfmt_misc" , 
+"size" : "0", 
+ "free" : "0",
+ "avail": "0"
+
+} ] 
+ }
